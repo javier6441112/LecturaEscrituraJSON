@@ -1,0 +1,1 @@
+{"nombre":"javier Isaac Sandoval Perez","carnet":"7690-23-5643","seccion":"A","genero":"hombre"}
